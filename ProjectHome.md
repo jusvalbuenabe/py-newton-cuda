@@ -1,0 +1,1 @@
+This program implements the time-evolution of an ensemble of classical particles using Python and PyCUDA, harnessing the power of GPU computing.
